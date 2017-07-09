@@ -1,0 +1,2 @@
+# plugin.video.BrasilListaPlay
+resources
